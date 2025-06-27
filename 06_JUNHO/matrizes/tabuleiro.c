@@ -1,3 +1,7 @@
+/* ATIVIDADE EXTRA DE IMPLEMENTAÇÃO
+THIAGO TOMAZ DE ARAUJO - 20251134040031
+*/
+
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
