@@ -1,14 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
-//definido pelo usuario
-typedef struct Funcionario
-{
-    int idade;
-    float salario;
-    int rg;
-};
-
+#include "estrutura_funcionario.h"
 
 int main()
 {
